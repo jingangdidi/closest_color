@@ -53,7 +53,7 @@ Options:
 ## Building from source
 ```
 git clone https://github.com/jingangdidi/closest_color.git
-cd chatsong
+cd closest_color
 cargo build --release
 ```
 
